@@ -1,6 +1,8 @@
+<img src="https://github.com/mabittar/OpenAI_Questions/blob/master/static/question_mark.png?raw=true" width="150px" align="right" />
+
 # OpenAI_API
 
-FastAPI Form to consume OpenAI
+An API created with FastAPI to make an question answer validation in OpenAI.
 
 ## Requirements
 
